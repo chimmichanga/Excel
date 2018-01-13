@@ -8,7 +8,7 @@ Created on Thu Jan  4 17:56:43 2018
 import openpyxl
 import os
 
-os.chdir('C:\\Users\\Shivam\\Documents')
+os.chdir('')
 
 wb=openpyxl.load_workbook('test.xlsx')
 
